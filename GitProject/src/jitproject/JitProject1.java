@@ -6,5 +6,4 @@ public class JitProject1 {
 		// TODO Auto-generated method stub
 System.out.println("GitProject1");
 	}
-
 }
